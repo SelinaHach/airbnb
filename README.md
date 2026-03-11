@@ -1,5 +1,7 @@
 # Airbnb Pricing Drivers Analysis
 
+https://selinahach.github.io/airbnb/
+
 ## Overview
 This project analyzes Airbnb listings across five major U.S. cities — Boston, Los Angeles, Washington DC, San Francisco, and Seattle — to identify the key factors that drive higher nightly prices and occupancy.
 
